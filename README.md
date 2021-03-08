@@ -2,7 +2,7 @@
 
 |   Contributions   |   WakaTime   |
 | ---- | ---- |
-|   ![](https://github-readme-stats.vercel.app/api?username=zhangjingcode&count_private=true&show_icons=true&theme=radical)   | ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zjhai)]|
+|   ![](https://github-readme-stats.vercel.app/api?username=zhangjingcode&count_private=true&show_icons=true&theme=radical)   | ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zjhai)|
 <!--
 **zhangjingcode/zhangjingcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
